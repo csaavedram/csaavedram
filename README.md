@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Christian Saavedra
 
-🎓 Ingeniero Informático egresado de la **Universidad Ricardo Palma**, ubicado en el **décimo superior** de mi promoción.  
+🎓 Ingeniero Informático, ubicado en el **décimo superior** de mi promoción.  
 💻 Apasionado por el **desarrollo web fullstack**, el aprendizaje constante y las **tecnologías emergentes**.  
 ⚡ Me gusta trabajar en proyectos que resuelvan problemas reales y aporten valor.  
 
