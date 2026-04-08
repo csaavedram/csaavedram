@@ -62,10 +62,6 @@
 | ------------------------------------------|
 | ![github-user-contribution](https://github.com/user-attachments/assets/0cebedbc-290e-464e-b684-b4fd73dad4eb)
 
-| Lenguajes más utilizados | Estadísticas |
-| -------------------------| ------------ |
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csaavedram&layout=compact&theme=onedark)  | ![Stats](https://github-readme-stats.vercel.app/api?username=csaavedram&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-
 ---
 
 ## 📫 Conéctate conmigo  
