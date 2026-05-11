@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Christian Saavedra
 
-🎓 Ingeniero Informático, ubicado en el **décimo superior** de mi promoción.  
+🎓 Ingeniero Informático, ubicado en el **quinto superior (2° puesto)** de mi promoción.  
 💻 Apasionado por el **desarrollo web fullstack** y el **análisis de datos**, el aprendizaje constante y las **tecnologías emergentes**.  
 ⚡ Me gusta trabajar en proyectos que resuelvan problemas reales y aporten valor.  
 
